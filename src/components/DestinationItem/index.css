@@ -1,0 +1,13 @@
+.item-container {
+  display: flex;
+  flex-direction: column;
+}
+.image-name {
+  height: 300px;
+  width: 300px;
+}
+.heading {
+  font-size: 10px;
+  font-weight: 400;
+  text-align: start;
+}
